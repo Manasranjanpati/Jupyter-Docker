@@ -1,3 +1,8 @@
+# BlogPost
+
+[Jupyter-Docker-Blogpost](https://manasranjanpati.netlify.app/blog/jupyter_docker/)
+
+
 # Jupyter-Docker-Heroku-
 
 ![alt text](https://www.cloudsavvyit.com/thumbcache/0/0/576bdb68675c300a17d82c131b23c927/p/uploads/2019/06/c454d054.png)
